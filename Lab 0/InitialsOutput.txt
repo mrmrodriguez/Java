@@ -1,0 +1,12 @@
+Lab 0 written by Megan Rodriguez
+M         M  M        M  RRRRRR
+MM       MM  MM       M  R      R
+M M     M M  M M     MM  R       R
+M  M   M  M  M  M   M M  R       R
+M   M M   M  M   M M  M  R      R
+M    M    M  M    M   M  RRRRRR
+M         M  M        M  R     R
+M         M  M        M  R      R
+M         M  M        M  R       R
+M         M  M        M  R        R
+M         M  M        M  R         R
