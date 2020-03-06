@@ -1,0 +1,14 @@
+Compiler is using classPath = '[C:\Users\megal\DrJava\Practice\2020, C:\Users\megal\Downloads\drjava-beta-20190813-220051.jar]';  bootClassPath = 'null'
+Lab 2 written by Megan Rodriguez
+Enter the number of quarters: 
+4
+Enter the number of dimes: 
+1
+Enter the number of nickels: 
+1
+Enter the number of pennies: 
+3
+4 quarters, 1 dimes, 1 nickels, and 3 pennies is $1.18.
+Enter the number of cents
+99
+99 cents is equal to 3 quarter(s), 2 dime(s), 0 nickel(s), and 4 pennies.
