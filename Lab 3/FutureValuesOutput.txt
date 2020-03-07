@@ -1,0 +1,16 @@
+Compiler is using classPath = '[C:\Users\megal\DrJava\Practice\2020, C:\Users\megal\DrJava\Practice, C:\Users\megal\Downloads\drjava-beta-20190813-220051.jar]';  bootClassPath = 'null'
+Lab 3 written by Megan Rodriguez
+Enter the present value of account: 
+1000
+Enter the interest rate of account: 
+5
+Enter the number of years: 
+2
+The future value of the account is $1,102.50
+Enter the yearly payment: 
+100
+Enter the interest rate: 
+5
+Enter the number of years: 
+3
+The annuity for the account is $315.25
